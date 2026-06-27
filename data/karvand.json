@@ -1,0 +1,17 @@
+{
+    "Bootcamp": {
+        "title": "Karvand Python",
+        "year": 2026
+    },
+    "karvands": [
+        {
+            "id": "123",
+            "full_name": "setayesh",
+            "city": "teh",
+            "education": {
+                "degree": "20",
+                "field": "comp"
+            }
+        }
+    ]
+}
