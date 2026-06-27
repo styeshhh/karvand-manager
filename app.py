@@ -1,6 +1,6 @@
 import json  # noqa: F401
 file_name = "data/karvand.json"
-APP_TITLE = "Karvand Student Manager"
+APP_TITLE = "Karvand studen Manager"
 try :
     with open(file_name , "r") as file : 
         data = json.load(file)
