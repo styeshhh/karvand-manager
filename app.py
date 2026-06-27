@@ -1,6 +1,10 @@
 import json  # noqa: F401
 file_name = "data/karvand.json"
+<<<<<<< HEAD
 APP_TITLE = "Karvand JSON Manager"
+=======
+APP_TITLE = "Karvand studen Manager"
+>>>>>>> update-title
 try :
     with open(file_name , "r") as file : 
         data = json.load(file)
